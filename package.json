@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "apollo": "^2.31.1"
+  },
+  "name": "testPretto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/T0din/testPretto.git",
+  "author": "Pierre Vinarnick <pvinarnick@extia.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0"
+  }
+}

@@ -1,0 +1,14 @@
+_ identifier les points de flou CHECK
+_ envoyer un mail à François avec les questions CHECK
+
+_ comment faire une requête API en Node
+_ comment structurer un schema GQL
+_ comment définir un typedef d'une API ? D'un résultat de requête ?
+_ écrire resolver  Traduire en ts
+
+_ comme l'api airTable est mis à jour tous les mois, on pourrait mettre en cache les infos ?
+
+US
+
+_ afficher les membres de l'équipe avec leur score moyen
+Remarque : reviews (antéchronologique), only 2 reviews
