@@ -10,6 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server": "^2.19.0",
+    "axios": "^0.21.0",
+    "babel": "^6.23.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-plugin-import": "^2.22.1",
     "graphql": "^15.4.0"
   }
 }
